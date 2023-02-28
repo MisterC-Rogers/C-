@@ -1,0 +1,15 @@
+D:\Code\C#\simpleProject\bin\Debug\net7.0\simpleProject.exe
+D:\Code\C#\simpleProject\bin\Debug\net7.0\simpleProject.deps.json
+D:\Code\C#\simpleProject\bin\Debug\net7.0\simpleProject.runtimeconfig.json
+D:\Code\C#\simpleProject\bin\Debug\net7.0\simpleProject.dll
+D:\Code\C#\simpleProject\bin\Debug\net7.0\simpleProject.pdb
+D:\Code\C#\simpleProject\obj\Debug\net7.0\simpleProject.csproj.AssemblyReference.cache
+D:\Code\C#\simpleProject\obj\Debug\net7.0\simpleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\simpleProject\obj\Debug\net7.0\simpleProject.AssemblyInfoInputs.cache
+D:\Code\C#\simpleProject\obj\Debug\net7.0\simpleProject.AssemblyInfo.cs
+D:\Code\C#\simpleProject\obj\Debug\net7.0\simpleProject.csproj.CoreCompileInputs.cache
+D:\Code\C#\simpleProject\obj\Debug\net7.0\simpleProject.dll
+D:\Code\C#\simpleProject\obj\Debug\net7.0\refint\simpleProject.dll
+D:\Code\C#\simpleProject\obj\Debug\net7.0\simpleProject.pdb
+D:\Code\C#\simpleProject\obj\Debug\net7.0\simpleProject.genruntimeconfig.cache
+D:\Code\C#\simpleProject\obj\Debug\net7.0\ref\simpleProject.dll

@@ -1,0 +1,15 @@
+D:\Code\C#\shortBioChallenge\bin\Debug\net7.0\shortBioChallenge.exe
+D:\Code\C#\shortBioChallenge\bin\Debug\net7.0\shortBioChallenge.deps.json
+D:\Code\C#\shortBioChallenge\bin\Debug\net7.0\shortBioChallenge.runtimeconfig.json
+D:\Code\C#\shortBioChallenge\bin\Debug\net7.0\shortBioChallenge.dll
+D:\Code\C#\shortBioChallenge\bin\Debug\net7.0\shortBioChallenge.pdb
+D:\Code\C#\shortBioChallenge\obj\Debug\net7.0\shortBioChallenge.csproj.AssemblyReference.cache
+D:\Code\C#\shortBioChallenge\obj\Debug\net7.0\shortBioChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\shortBioChallenge\obj\Debug\net7.0\shortBioChallenge.AssemblyInfoInputs.cache
+D:\Code\C#\shortBioChallenge\obj\Debug\net7.0\shortBioChallenge.AssemblyInfo.cs
+D:\Code\C#\shortBioChallenge\obj\Debug\net7.0\shortBioChallenge.csproj.CoreCompileInputs.cache
+D:\Code\C#\shortBioChallenge\obj\Debug\net7.0\shortBioChallenge.dll
+D:\Code\C#\shortBioChallenge\obj\Debug\net7.0\refint\shortBioChallenge.dll
+D:\Code\C#\shortBioChallenge\obj\Debug\net7.0\shortBioChallenge.pdb
+D:\Code\C#\shortBioChallenge\obj\Debug\net7.0\shortBioChallenge.genruntimeconfig.cache
+D:\Code\C#\shortBioChallenge\obj\Debug\net7.0\ref\shortBioChallenge.dll
