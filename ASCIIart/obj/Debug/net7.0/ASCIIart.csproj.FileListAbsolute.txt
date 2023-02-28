@@ -1,0 +1,15 @@
+D:\Code\C#\ASCIIart\bin\Debug\net7.0\ASCIIart.exe
+D:\Code\C#\ASCIIart\bin\Debug\net7.0\ASCIIart.deps.json
+D:\Code\C#\ASCIIart\bin\Debug\net7.0\ASCIIart.runtimeconfig.json
+D:\Code\C#\ASCIIart\bin\Debug\net7.0\ASCIIart.dll
+D:\Code\C#\ASCIIart\bin\Debug\net7.0\ASCIIart.pdb
+D:\Code\C#\ASCIIart\obj\Debug\net7.0\ASCIIart.csproj.AssemblyReference.cache
+D:\Code\C#\ASCIIart\obj\Debug\net7.0\ASCIIart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\ASCIIart\obj\Debug\net7.0\ASCIIart.AssemblyInfoInputs.cache
+D:\Code\C#\ASCIIart\obj\Debug\net7.0\ASCIIart.AssemblyInfo.cs
+D:\Code\C#\ASCIIart\obj\Debug\net7.0\ASCIIart.csproj.CoreCompileInputs.cache
+D:\Code\C#\ASCIIart\obj\Debug\net7.0\ASCIIart.dll
+D:\Code\C#\ASCIIart\obj\Debug\net7.0\refint\ASCIIart.dll
+D:\Code\C#\ASCIIart\obj\Debug\net7.0\ASCIIart.pdb
+D:\Code\C#\ASCIIart\obj\Debug\net7.0\ASCIIart.genruntimeconfig.cache
+D:\Code\C#\ASCIIart\obj\Debug\net7.0\ref\ASCIIart.dll
